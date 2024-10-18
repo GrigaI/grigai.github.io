@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    font-size: 20px;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+li {
+    font-size: 20px;
+    font-weight: 600;
+    list-style: none;
+}
+.worker {
+    font-weight: normal;
+}
+.time {
+    font-weight: normal;
+}
